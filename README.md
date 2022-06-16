@@ -1,6 +1,7 @@
-<h1>AppSkillExpo</h1>
-
-<h3>Aplicativo desenvolvido com expo e watermelondb, desenvolvendo uma aplicação simples, cadastrando, atualizando, visualizando hardskill e softskill.</h3>
+<h1 align="center">AppSkillExpo</h1>
+<p>
+<h3>&nbsp;&nbsp;Aplicativo desenvolvido com expo e watermelondb, desenvolvendo uma aplicação simples, cadastrando, atualizando, visualizando hardskill e softskill.</h3>
+</p>
 <br>
 
   <p align="center">
@@ -16,6 +17,7 @@
   <h3>Tecnologias Utilizadas: </h3>
   <ul>
     <li>React Native.</li>
+    <li>Expo Bareworkflow.</li>
     <li>Typescript.</li>
     <li>Watermelondb.</li>
   </ul>
